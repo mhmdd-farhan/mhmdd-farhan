@@ -46,9 +46,8 @@ Since then I pushed **31**+ commits, opened **20**+ issues, submitted **10**+ pu
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
-  ![aan-cloud's Stats](https://github-readme-stats.vercel.app/api?username=aan-cloud&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aan-cloud&theme=vue-dark&hide_border=true" />
 </details>
 
 <details>
