@@ -14,7 +14,7 @@ Feel free to connect with me @farhan for all things tech or just to say hello! L
 
 Joined Github **1** years ago.
 
-Since then I pushed **31**+ commits, opened **20**+ issues, submitted **10**+ pull requests, created **20**+ gists and contributed to **2**+ public repositories.
+Since then I pushed **700**+ commits, opened **50**+ issues, submitted **30**+ pull requests, created **20**+ gists and contributed to **3**+ public repositories.
 
 ### Talking about Personal Stuff:
 
