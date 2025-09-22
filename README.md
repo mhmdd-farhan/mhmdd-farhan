@@ -12,9 +12,9 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @farhan for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **1** years ago.
+Joined Github **3** years ago.
 
-Since then I pushed **700**+ commits, opened **50**+ issues, submitted **30**+ pull requests, created **20**+ gists and contributed to **3**+ public repositories.
+Since then I pushed **1000**+ commits, opened **100**+ issues, submitted **150**+ pull requests, created **50**+ gists and contributed to **40** repositories.
 
 ### Talking about Personal Stuff:
 
