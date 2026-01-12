@@ -49,7 +49,7 @@ Since then I pushed **1000**+ commits, opened **100**+ issues, submitted **150**
   <br />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mhmdd-farhan&show_icons=true&theme=tokyonight" />
   <br />
-  <img height="180em" src="[https://github-readme-streak-stats.herokuapp.com/?user=mhmdd-farhan&theme=vue-dark&hide_border=true](https://github-readme-stats-fast.vercel.app/api/streak?username=mhmdd-farhan&theme=tokyonight)" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mhmdd-farhan&theme=tokyonight" />
   <br />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhmdd-farhan&layout=compact&theme=tokyonight" />
    
