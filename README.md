@@ -59,8 +59,8 @@ Since then I pushed **1000**+ commits, opened **100**+ issues, submitted **150**
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> Thikpad</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Device: </b> AIO PC</li>
   	    <li><b>Browser: </b> Chrome </li>
 	    <li><b>Terminal: </b> Gitbash & PowerShell 7</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
