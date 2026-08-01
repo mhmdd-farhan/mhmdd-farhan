@@ -1,78 +1,79 @@
-## Hey there 👋, I'm [Muhammad Farhan!](https://github.com/aan-cloud/)
+## Hey there 👋, I'm [Muhammad Farhan!](https://github.com/mhmdd-farhan)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farhan-569018185/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mhmdd_frhnn/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:fmuh8402@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Terminal_Portfolio-000000?style=flat-square&logo=Terminal&logoColor=green)](https://muhammad-farhan.com) 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### 🚀 Software Engineer | Cloud Architecture | AI-Integrated Systems
 
-I am a Full Stack Developer, I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc.
+I am a **Software Engineer** specializing in building highly available, cloud-native enterprise systems and optimizing backend architectures. Driven by first-principle thinking, I focus on decoupling monolithic applications into microservices, engineering scalable data pipelines, and implementing AI/LLM integrations for enterprise clients across Southeast Asia.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+When I'm not writing code, you'll find me deep-diving into system design case studies, exploring event-driven architectures, and finding ways to make backend systems faster and more resilient.
 
-Feel free to connect with me @farhan for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+---
 
-Joined Github **3** years ago.
+### 💻 What I'm currently up to:
 
-Since then I pushed **1000**+ commits, opened **100**+ issues, submitted **150**+ pull requests, created **50**+ gists and contributed to **40** repositories.
+- 🏢 &nbsp; Engineering robust microservices and integrating enterprise CMS platforms at **Magnus**.
+- ⚙️ &nbsp; Building and scaling systems using **TypeScript, C# / .NET, Node.js, and PostgreSQL**.
+- 🚀 &nbsp; Exploring and implementing **Custom RAG Pipelines, WebRTC streaming, and RabbitMQ**.
+- 💬 &nbsp; Ask me about: **System Architecture, Database Optimization (SQL), and API Design**.
+- 📫 &nbsp; Reach out to me at: **fmuh8402@gmail.com**
 
-### Talking about Personal Stuff:
+---
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, DL, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/aan-cloud/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: fmuh8402@gmail.com.
+### 🛠️ Languages and Tools:
 
-### My Absolute Favorites:
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <br />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+  <!-- Cloud & Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  <br />
+  <!-- Architecture & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="webrtc" />
+</p>
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+---
 
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projects and Dev Stuffs:
+### 📊 Github Stats & Workspace:
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mhmdd-farhan&show_icons=true&theme=tokyonight" />
-  <br />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mhmdd-farhan&theme=tokyonight" />
-  <br />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhmdd-farhan&layout=compact&theme=tokyonight" />
-   
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mhmdd-farhan&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhmdd-farhan&layout=compact&theme=tokyonight" />
+  </p>
 </details>
 
 <details>
+  <summary><b>⚙️ My Engineering Setup</b></summary>
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 11</li>
-	    <li><b>Device: </b> AIO PC</li>
-  	    <li><b>Browser: </b> Chrome </li>
-	    <li><b>Terminal: </b> Gitbash & PowerShell 7</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
+  <ul>
+    <li><b>OS:</b> Windows / WSL2 (Linux)</li>
+    <li><b>Terminal:</b> PowerShell 7 / GitBash with custom prompts</li>
+    <li><b>Editor:</b> VSCode (Highly customized for TS & C#)</li>
+    <li><b>API & DB Tools:</b> Postman, DBeaver, Docker Desktop</li>
+    <li><b>Productivity:</b> Notion, Bitwarden</li>
+    <li><b>Reading:</b> Hacker News, Tech Engineering Blogs</li>
+  </ul>
 </details>
 
-#
+<br />
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+  <i>"Ship things that work, and understand deeply why they work."</i>
 </div>
